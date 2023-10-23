@@ -2,29 +2,29 @@ DO NOT ADD OR DELETE ANY LINES UNTIL "---"
 
 PART 1
 1. Currency Names:
-MXN: XXX
-BRL: XXX
-HUF: XXX
-KRW: XXX
-ZAR: XXX
-NZD: XXX
-AED: XXX
-USD: XXX
+MXN: Mexican Peso
+BRL: Brazilian Real
+HUF: Hungarian Forint
+KRW: South Korean Won
+ZAR: South African Rand
+NZD: New Zealand Dollar
+AED: United Arab Emirates Dirham
+USD: United States Dollar
 
-2. XXX
-3. XXX
-4. XXX
-5. XXX
+2. HUF
+3. 1.0
+4. HUF
+5. -0.2841
 6. No answer (save and commit your csv file)
 7. No answer (be sure your created and committed a .gitignore)
 
 PART 2
-8. XXX
-9. XXX
-10. XXX
-11a. XXX
-11b. XXX
-11c. XXX
+8. 1998.0785
+9. 81.3214
+10. 0.5532
+11a. nan
+11b. nan
+11c. nan
 12. No answer (save and commit your csv file)
 
 ----
